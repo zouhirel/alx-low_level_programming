@@ -1,4 +1,4 @@
-#include "_putchar.h"
+#include "main.h"
 /**
  * main - Entry point
  *
@@ -12,6 +12,7 @@ _putchar('p');
 _putchar('u');
 _putchar('t');
 _putchar('c');
+_putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
